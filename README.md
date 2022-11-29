@@ -1,9 +1,9 @@
-### Hi there 👋
+### Hi there! My name is Valentina Ancieta 👋 
 
-- 🔭 I’m currently working as a Career Developer
+- 🔭 I’m currently working as a Career Developer at 4 Geeks Academy
 - 📫 How to reach me: vancieta@4geeksacademy.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I love dogs 
+- ⚡ Fun fact: I love dogs and baking 🐶🧁
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
