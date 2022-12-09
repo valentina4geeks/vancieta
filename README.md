@@ -1,4 +1,5 @@
 ### Hi there! My name is Valentina Ancieta 👋 
+<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/k0ijJhqrUP4T2EvmJ1/giphy.gif?cid=ecf05e47ksgqfrn63nm78pn3ugkaub9lfu35hpztvfpagbe7&rid=giphy.gif&ct=g"/>
 
 - 🔭 I’m currently working as a Career Developer at 4 Geeks Academy
 - 📫 How to reach me: vancieta@4geeksacademy.com
